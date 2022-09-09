@@ -1,0 +1,17 @@
+body{
+    background-image:linear-gradient(to right, rgb(0, 255, 191), skyblue) ;
+}
+body{
+    text-align: center;
+    justify-content: center;
+}
+th{
+    border: 2px solid black;
+}
+
+table td{
+    border: 2px solid blue;
+}
+table{
+    margin-top: 10%;
+}
